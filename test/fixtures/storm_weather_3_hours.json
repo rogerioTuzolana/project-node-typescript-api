@@ -1,0 +1,23 @@
+{
+	"hours": [],
+	"meta": {
+		"cost": 1,
+		"dailyQuota": 10,
+		"end": "2020-06-14 05:51",
+		"lat": 58.7984,
+		"lng": 17.8081,
+		"params": [
+			"swellDirection",
+			"swellHeight",
+			"swellPeriod",
+			"waveDirection",
+			"waveHeight",
+			"windDirection"
+		],
+		"requestCount": 8,
+		"source": [
+			"noaa"
+		],
+		"start": "2022-11-11 00:00"
+	}
+}
